@@ -1,0 +1,19 @@
+ {
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "C2989MFX2P.com.csii.mobilecenter.digitalBankx",
+        "paths": ["/digital/*"]
+      },
+      {
+        "appID": "C2989MFX2P.com.csii.corporationbank",
+        "paths": ["/etpbank/*"]
+      },
+      {
+        "appID": "C2989MFX2P.com.csii.assetsmanage",
+        "paths": ["/assetsmanage/*"]
+      }
+    ]
+  }
+}
