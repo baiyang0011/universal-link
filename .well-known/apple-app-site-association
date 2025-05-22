@@ -3,16 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "C2989MFX2P.com.csii.mobilecenter.digitalBankx",
-        "paths": ["/digital/*"]
+        "appID": "LL89NS5MRX.com.leadingtek.smartbank.personal",
+        "paths": ["/personal/*"]
       },
       {
-        "appID": "C2989MFX2P.com.csii.corporationbank",
-        "paths": ["/etpbank/*"]
-      },
-      {
-        "appID": "C2989MFX2P.com.csii.assetsmanage",
-        "paths": ["/assetsmanage/*"]
+        "appID": "LL89NS5MRX.com.leadingtek.smartbank.business",
+        "paths": ["/business/*"]
       }
     ]
   }
